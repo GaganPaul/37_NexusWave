@@ -1,0 +1,15 @@
+torch
+twilio
+flask
+requests
+numpy
+soundfile
+scipy
+pydub
+sacremoses
+sentencepiece
+transformers
+sacrebleu
+setuptools>=68.2.2
+python-dotenv
+git+https://github.com/VarunGumma/IndicTransToolkit.git#egg=IndicTransToolkit
